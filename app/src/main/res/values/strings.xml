@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application_09</string>
+    <string name="send_message">Send</string>
+    <string name="receive_message">Receive</string>
+    <string name="delete_message">Delete</string>
+
+</resources>
